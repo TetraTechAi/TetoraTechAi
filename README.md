@@ -1,6 +1,29 @@
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TetraTechAi&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=TetraTechAi&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <a href="https://github.com/TetraTechAi">
+    <img height="20" src="https://komarev.com/ghpvc/?username=TetraTechAi" />
+  </a>
+  <a href="https://github.com/TetraTechAi">
+    <img height="20" src="https://img.shields.io/github/followers/TetraTechAi?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/TetraTechAi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/TetraTechAi/posts.svg" />
+  </a>
+  <a href="http://qiita.com/TetraTechAi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/TetraTechAi/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/TetraTechAi">
+    <img height="20" src="https://badgen.org/img/zenn/TetraTechAi/articles?style=plastic" />
+  </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TetraTechAi&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+## Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TetraTechAi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TetraTechAi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TetraTechAi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TetraTechAi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TetraTechAi&theme=gruvbox&utcOffset=9)
+
+## Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TetraTechAi&theme=gruvbox)
