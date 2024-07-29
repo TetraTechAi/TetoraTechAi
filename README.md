@@ -11,8 +11,8 @@
   <a href="http://qiita.com/TetraTechAi">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TetraTechAi/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/TetraTechAi">
-    <img height="20" src="https://badgen.org/img/zenn/TetraTechAi/articles?style=plastic" />
+  <a href="https://zenn.dev/tetratechai">
+    <img height="20" src="https://badgen.org/img/zenn/tetratechai/articles?style=plastic" />
   </a>
 </p>
 
